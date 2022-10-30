@@ -28,5 +28,5 @@ N/A
 
 ## License
 
-# MIT License
+MIT License
 
